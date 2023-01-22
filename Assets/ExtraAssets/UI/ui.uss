@@ -1,0 +1,40 @@
+.button {
+    -unity-font: resource('Fonts/Insanibu');
+    -unity-font-definition: none;
+    height: 16%;
+    width: 50%;
+    font-size: 22%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 6px;
+    border-left-color: rgb(255, 235, 0);
+    border-right-color: rgb(255, 235, 0);
+    border-top-color: rgb(255, 235, 0);
+    border-bottom-color: rgb(255, 235, 0);
+}
+
+.button:active {
+    -unity-font: resource('Fonts/Insanibu');
+    -unity-font-definition: none;
+    height: 16%;
+    width: 50%;
+    font-size: 22%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 6px;
+    border-left-color: rgb(255, 235, 0);
+    border-right-color: rgb(255, 235, 0);
+    border-top-color: rgb(255, 235, 0);
+    border-bottom-color: rgb(255, 235, 0);
+    background-color: rgb(38, 37, 37);
+}

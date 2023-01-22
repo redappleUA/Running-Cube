@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/ExtraAssets/UI/ui.uss?fileID=7433441132597879392&amp;guid=ee8cc18803c762640b42f2b6956b637e&amp;type=3#ui" />
+    <ui:Label text="Fail" display-tooltip-when-elided="true" name="DeatLabel" style="-unity-font: resource(&apos;Fonts/Insanibu&apos;); font-size: 50%; color: rgba(0, 0, 0, 255); -unity-font-definition: none; -unity-text-align: lower-center; height: 33%;" />
+    <ui:VisualElement name="ButtonBox" style="height: 54%; align-items: center; justify-content: flex-end;">
+        <ui:Button text="Try Again" display-tooltip-when-elided="true" name="Restart" class="button" style="font-size: 19%; width: 52%;" />
+    </ui:VisualElement>
+</ui:UXML>
